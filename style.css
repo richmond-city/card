@@ -11,3 +11,15 @@ body{
     height: 100vh;
     background: rgb(30, 31, 30);
 }
+
+.main-card{
+    width: 500px;
+    height: 400px;
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 0 0 30px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}

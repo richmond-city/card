@@ -14,3 +14,32 @@ my [repository](https://richmond-city.github.io/card)
 
 - iran
 - london
+
+*dolor*
+
+> this is iran
+
+1. iran
+    1. mashhad
+    2. tehran
+    3. yazd
+2. american
+
+i am developer `front-end`
+
+````html
+<h1> iran </h1>
+````
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+---
+
+| first name | last name | age |
+| :---       |  :----:   | ---:|
+| ghaem      |  Shafi    | 18 
+| ghaem      |  Shafi    | 18 
+| ghaem      |  Shafi    | 18 

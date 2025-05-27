@@ -74,4 +74,5 @@ body{
     font-size: 30px;
     color: white;
     margin-left: 20px;
+    border: 2px solid red;
 }
